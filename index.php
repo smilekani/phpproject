@@ -19,7 +19,11 @@
 	  <form action="javabasics.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-2 col-sm-2">
+<<<<<<< HEAD
 		  <a href="java/javabasics.php"><img class="img-responsive" src="images/Java.png" alt="Java Tutorial"></a>
+=======
+		  <a href="javabasics.php"><img class="img-responsive" src="images/Java.png" alt="Java Tutorial"></a>
+>>>>>>> eee664f8580e23437531374870f3d0f039e87d28
         </div>
       </div>
 	  </form>
