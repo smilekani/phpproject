@@ -12,15 +12,22 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>Java Class</h3>
-      <p>A class is a blueprint for an object.It tells the JVM(Java Virtual Machine) how to make object for a particular type.
-	  For Example: All Human Beings are denoted commonly by certain properties such as name, place etc by a class named "HUMAN".
-	  But No human object is made still now.The Human Beings are created as Object by assigning values to properties such as name,place etc 
-	  withrespective to human class.  
-	  </p>
+      <h3>Java Code Structure</h3>
+      <p>Put a Class in a Source File</p>
+	  <p>Put methods in a class</p>
+	  <p>Put Statements in a method</p>
+	  <h4>What goes in a Source File?</h4>
+	  <p>The Source Code file named with .java extension has the definition of the class.The class represents the piece of your program.
+	  All java applications has atleast one class.</p><br>
+	  <p>The class starts and ends with opening brace { and the ending brace }</p><br>
+	  <h4>What goes in a Class?</h4>
+	  <p>Inside class has lot of methods.A class has one or more methods.
+	  The methods must be declared inside a class with coresponding open and close braces.</p><br>
+	  <h4>What goes in a Method?</h4>
+	  <p>The method has the list of statements.</p>
 	 <div class="row">
 	  <div class="col-sm-2">
-	  <form action="javabasics.php" method="post">
+	  <form action="javafirstprog.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-2 col-sm-2">
           <div class="submit">

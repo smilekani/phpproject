@@ -15,14 +15,15 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-sm-2">
-      <h3></h3>
-      <p></p>
-    </div>
-    <div class="col-sm-8">
-      <h3>Column 2</h3>
-      <p>Tutorials</p>
-    </div>
+	  <div class="col-sm-8">
+	  <form action="javabasics.php" method="post">
+	  <div class="form-group">
+        <div class="col-md-offset-2 col-sm-2">
+		  <a href="javabasics.php"><img class="img-responsive" src="images/Java.png" alt="Java Tutorial"></a>
+        </div>
+      </div>
+	  </form>
+	  </div>
     <div class="col-sm-2">
       <h3>Related Topics</h3>        
       <p></p>

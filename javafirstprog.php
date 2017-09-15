@@ -12,12 +12,22 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>Java Class</h3>
-      <p>A class is a blueprint for an object.It tells the JVM(Java Virtual Machine) how to make object for a particular type.
-	  For Example: All Human Beings are denoted commonly by certain properties such as name, place etc by a class named "HUMAN".
-	  But No human object is made still now.The Human Beings are created as Object by assigning values to properties such as name,place etc 
-	  withrespective to human class.  
+      <h3>First Java Program</h3>
+      <p>Let start learning to write Java Program</br>
+	  This Simple Java Program just print "Hello, Welcome to Java Programming."</p></br>
+	  <p></br>public class FirstJavaProg {</p>
+		  <p>public static void main(String[] args) {</p>
+			  <p>System.out.println("Hello, Welcome to Java Programming.");</p>
+		<p>}</p>
+	  <p>}</p></br>
 	  </p>
+	  <h4>How to run a Java Program?</h4>
+	  <p>Just copy the above program and paste it in a file named as FirstJavaProg.java</p></br>
+	  <p><b>Note:</b>The name of the source File is same as the class Name which has the main method</p>
+	  <p>Compile the class as javac FirstJavaProg.java</p><br>
+	  <p>After Compilation, run as java FirstJavaProg</p><br>
+	  <p>Output is displayed as "Hello, Welcome to Java Programming."</p>
+	  
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasics.php" method="post">
@@ -32,7 +42,7 @@
 	  </form>
 	  </div>
 	  <div class="col-sm-10">
-	  <form action="javaobject.php" method="post">
+	  <form action="javacodestructure.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-10 col-sm-2">
           <div class="submit">
