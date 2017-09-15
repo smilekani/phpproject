@@ -7,7 +7,7 @@
     <ul class="nav navbar-nav">
       <!--<li class="active"><a href="#">Home</a></li>
       <li><a href="c.php">C</a></li> -->
-      <li><a href="java/javabasics.php">Java</a></li>
+      <li><a href="javabasics.php">Java</a></li>
     </ul>
   </div>
 </nav>
