@@ -39,7 +39,7 @@
 	  </form>
 	  </div>
 	  <div class="col-sm-10">
-	  <form action="javaobject.php" method="post">
+	  <form action="javaclass.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-10 col-sm-2">
           <div class="submit">

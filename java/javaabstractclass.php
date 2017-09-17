@@ -12,16 +12,13 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>Java Object</h3>
-      <p>The Java Objects are created by calling the constructors of the Class.</p></br>
-	  <p><b>How Objects Behave?</b></p>
-	  <p>All Objects have the <b>State</b> and <b>behaviour<b>.</p><br>
-	  <p>State affects behaviour and behaviour affects State.</p></br>
-	  <p>For brief description:In the Class has variables and Methods.At First Objects are made by forming the instance of the
-	  class by assigning the values to the variables through the methods or the behaviour of the method changes by changing the value of the variables.
+      <h3>Java Interface</h3>
+      <p><b>What is a interface?</b></p><p>Interface is a 100% abstract class.</p></br>
+	  <p><b>What is abstract class?</b></p>
+	  <p>Abstract class is the class that cannot be instantiated</p>
 	 <div class="row">
 	  <div class="col-sm-2">
-	  <form action="javaclass.php" method="post">
+	  <form action="javaobject.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-2 col-sm-2">
           <div class="submit">
@@ -33,7 +30,7 @@
 	  </form>
 	  </div>
 	  <div class="col-sm-10">
-	  <form action="javainterface.php" method="post">
+	  <form action="javaobject.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-10 col-sm-2">
           <div class="submit">

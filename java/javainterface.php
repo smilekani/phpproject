@@ -12,11 +12,13 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>Java Class</h3>
-      <p>A class is a blueprint from which individual objects are created.</p>
+      <h3>Java Interface</h3>
+      <p><b>What is a interface?</b></p><p>Interface is a 100% abstract class.</p></br>
+	  <p><b>What is abstract class?</b></p>
+	  <p>Abstract class is the class that cannot be instantiated</p>
 	 <div class="row">
 	  <div class="col-sm-2">
-	  <form action="javabasics.php" method="post">
+	  <form action="javaobject.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-2 col-sm-2">
           <div class="submit">
@@ -28,7 +30,7 @@
 	  </form>
 	  </div>
 	  <div class="col-sm-10">
-	  <form action="javaobject.php" method="post">
+	  <form action="javaabstractclass.php" method="post">
 	  <div class="form-group">
         <div class="col-md-offset-10 col-sm-2">
           <div class="submit">
