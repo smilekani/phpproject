@@ -1,5 +1,5 @@
-<a href="javabasics.php" class="btn btn-default col-sm-12">Java Basics</a>
-<a href="javafirstprog.php" class="btn btn-default col-sm-12">First Java Program</a>
+<a href="lettera.php" class="btn btn-default col-sm-12">Letter A</a>
+<!--<a href="javafirstprog.php" class="btn btn-default col-sm-12">First Java Program</a>
 <a href="javacodestructure.php" class="btn btn-default col-sm-12">Java Code Structure</a>
 <a href="javavariableandmethods.php" class="btn btn-default col-sm-12" role="button">Variables & Methods</a></br>
 <a href="javaclass.php" class="btn btn-default col-sm-12" role="button">Class</a></br>
@@ -8,7 +8,7 @@
 <a href="javaclass.php" class="btn btn-default col-sm-12" role="button">Abstract class</a></br>
 <a href="javabasics.php" class="btn btn-default col-sm-12" role="button">Polymorphism</a></br>
 <a href="javastaticandfinal.php" class="btn btn-default col-sm-12" role="button">Static and Final</a></br>
-<!--<a href="javaarray.php" class="btn btn-default col-sm-12" role="button">Arrays</a></br>
+<a href="javaarray.php" class="btn btn-default col-sm-12" role="button">Arrays</a></br>
 <a href="javacollections.php" class="btn btn-default col-sm-12" role="button">Collections</a></br>
 <a href="javamulthreading.php" class="btn btn-default col-sm-12" role="button">Multithreading</a></br>
 <a href="javaexecutor.php" class="btn btn-default col-sm-12" role="button">Executor Service</a></br>
