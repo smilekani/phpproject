@@ -18,7 +18,10 @@
 	  <p>All Objects have the <b>State</b> and <b>behaviour<b>.</p><br>
 	  <p>State affects behaviour and behaviour affects State.</p></br>
 	  <p>For brief description:In the Class has variables and Methods.At First Objects are made by forming the instance of the
-	  class by assigning the values to the variables through the methods or the behaviour of the method changes by changing the value of the variables.
+	  class by assigning the values to the variables through the methods or the behaviour of the method changes by changing the value of the variables.</p>
+	  <p><b>Every class in Java extends	class Object.</b></p>
+	  <p>Class Object is the mother of all classes.It is the superclass of everything.</p></br>
+	  <p>Any class that doesn’t explicitly extend another class, implicitly extends Object.</p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javaclass.php" method="post">
