@@ -20,6 +20,7 @@
 	  <div class="form-group">
         <div class="col-md-offset-2 col-sm-2">
 		  <a href="java/javabasics.php"><img class="img-responsive" src="images/Java.png" alt="Java Tutorial"></a>
+		  <a href="grewords/lettera.php"><img class="img-responsive" src="images/Java.png" alt="GRE Words"></a>
         </div>
       </div>
 	  </form>
