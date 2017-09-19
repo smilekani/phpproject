@@ -1,4 +1,11 @@
 <a href="lettera.php" class="btn btn-default col-sm-12">Letter A</a>
+<a href="letterb.php" class="btn btn-default col-sm-12">Letter B</a>
+<a href="letterc.php" class="btn btn-default col-sm-12">Letter C</a>
+<a href="letterd.php" class="btn btn-default col-sm-12">Letter D</a>
+<a href="lettere.php" class="btn btn-default col-sm-12">Letter E</a>
+<a href="letterf.php" class="btn btn-default col-sm-12">Letter F</a>
+<a href="letterg.php" class="btn btn-default col-sm-12">Letter G</a>
+<a href="letterh.php" class="btn btn-default col-sm-12">Letter H</a>
 <!--<a href="javafirstprog.php" class="btn btn-default col-sm-12">First Java Program</a>
 <a href="javacodestructure.php" class="btn btn-default col-sm-12">Java Code Structure</a>
 <a href="javavariableandmethods.php" class="btn btn-default col-sm-12" role="button">Variables & Methods</a></br>
