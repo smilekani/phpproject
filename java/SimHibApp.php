@@ -6,43 +6,33 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-sm-2">
-		<div>
-		<?php include 'javamenu.php';?>
-		</div>
-    </div>
-    <div class="col-sm-8">
-      <h3>Simple Step to Create a Hibernate Application Eclipse</h3>
+  <div class="col-sm-10">
+      <h3>Simple Steps to Create a Hibernate Application</h3>
 	  <h2>The Way Java Works</h2>
-		<p>Create the Database Configuration and Mapping with Java Objects in a File named as <b>hibernate.cfg.xml</b></p></div><br>
-		<pre> <?xml version='1.0' encoding='UTF-8'?>  
-<!DOCTYPE hibernate-configuration PUBLIC  
+		<p>Create the Database Configuration and Mapping with Java Objects in a File named as <b>hibernate.cfg.xml</b></p>
+		<pre> &lt;?xml version='1.0' encoding='UTF-8'?>  
+&lt;!DOCTYPE hibernate-configuration PUBLIC  
           "-//Hibernate/Hibernate Configuration DTD 3.0//EN"  
-          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">  
-  
-<hibernate-configuration>  
-  
-    <session-factory>  
-        <property name="hbm2ddl.auto">update</property>  
-        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>  
-        <property name="connection.url">jdbc:mysql://localhost/kani?createDatabaseIfNotExist=true</property>  
-        <property name="connection.username">root</property>  
-        <property name="connection.password"></property>  
-        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>  
-    <mapping resource="Person.hbm.xml"/>  
-    </session-factory>  
-  
-</hibernate-configuration>  
+          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+&lt;hibernate-configuration>
+    &lt;session-factory>  
+        &lt;property name="hbm2ddl.auto">update</property>  
+        &lt;property name="dialect">org.hibernate.dialect.MySQLDialect</property>  
+        &lt;property name="connection.url">jdbc:mysql://localhost/kani?createDatabaseIfNotExist=true</property>  
+        &lt;property name="connection.username">root</property>  
+        &lt;property name="connection.password"></property>  
+        &lt;property name="connection.driver_class">com.mysql.jdbc.Driver</property>  
+    &lt;mapping resource="Person.hbm.xml"/>  
+    &lt;/session-factory> 
+&lt;/hibernate-configuration>  
 </pre>
+
 <p>Create a Object as Person.java</p>
-package com.kani.hibernate;<pre>
+<pre>package com.kani.hibernate;
 import java.io.Serializable;
 
 public class Person implements Serializable
 {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private int id;
 	private String name;
@@ -85,29 +75,26 @@ public class Person implements Serializable
 	public String toString() {
 		return "Person [name=" + name + ", address=" + address + "]";
 	}
-
 }
 </pre>
+
 <p>Create a Mapping file the Object Person.java as follows</p>
-<p><?xml version='1.0' encoding='UTF-8'?>  
-<!DOCTYPE hibernate-mapping PUBLIC  
+<pre>&lt;?xml version='1.0' encoding='UTF-8'?>  
+	&lt;!DOCTYPE hibernate-mapping PUBLIC  
  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
- "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">  
-  
- <hibernate-mapping>  
-  <class name="com.kani.hibernate.Person" table="Persons">  
-    <id name="id">  
-     <generator class="increment"></generator>  
-    </id>  
-            
-    <property name="name"></property>  
-    <property name="address"></property>  
-            
-  </class>  
-            
- </hibernate-mapping></p>
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">    
+ &lt;hibernate-mapping>  
+  &lt;class name="com.kani.hibernate.Person" table="Persons">  
+    &lt;id name="id">  
+     &lt;generator class="increment"></generator>  
+    &lt;/id>          
+    &lt;property name="name"></property>  
+    &lt;property name="address"></property>           
+  &lt;/class>           
+ &lt;/hibernate-mapping></pre>
+ 
  <p>Run the Demo Class and see the Result</p>
- <p>package com.kani.hibernate;
+ <pre>package com.kani.hibernate;
 
 import org.hibernate.Session;  
 import org.hibernate.SessionFactory;  
@@ -138,10 +125,9 @@ public class HibernateDemo
 		t.commit();//transaction is commited  
 		session.close();  //closing the session
 
-		System.out.println("successfully saved");  
-
+		System.out.println("successfully saved");
 	}  
-}  </p>
+}  </pre>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
@@ -169,6 +155,6 @@ public class HibernateDemo
 	  </div>
     </div>
 	</div>
-<div>
-<?php include 'javafooter.php';?>
+	<?php include 'javafooter.php';?>
+	</div>
 </div>
