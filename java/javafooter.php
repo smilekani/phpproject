@@ -15,6 +15,17 @@
 	  <p><a href="dualprocessor.php">dual-processor</a></p>
 	  <p><a href="alphaprocessor.php">Alpha Processor</a></p>
 	  <p><a href="cputime.php">CPU time</a></p>
+	  <p><a href="apacheaxis.php">CPU time</a></p>
+	  <p><a href="javaprogprintvowels.php">java program to print vowels in a string</a></p>
+	  <p><a href="javamaxvowels.php">Program on displaying the word with maximum vowels in a sentence</a></p>
+  	  <p><a href="javaprogfact.php">Java program to find factorial</a></p>
+	  <p><a href="javaprintalphabets.php">Java program to print alphabets</a></p>
+  	  <p><a href="javaprintipaddress.php">Java program to get ip address</a></p>
+	  <p><a href="javaprintarmstrong.php">Java program to check armstrong number</a></p>
+  	  <p><a href="javacheckpalindrome.php">Java program to check palindrome</a></p>
+	  <p><a href="javaprintprime.php">Java program print prime numbers</a></p>
+  	  <p><a href="javalarg3numbers.php">Java program to find largest of three numbers</a></p>
+	  <p><a href="javafindoddoreven.php">Java program to find odd or even</a></p>
     </div>
   </div>
 </div>
