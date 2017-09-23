@@ -8,6 +8,9 @@
 <a href="javaclass.php" class="btn btn-default col-sm-12" role="button">Abstract class</a></br>
 <a href="javabasics.php" class="btn btn-default col-sm-12" role="button">Polymorphism</a></br>
 <a href="javastaticandfinal.php" class="btn btn-default col-sm-12" role="button">Static and Final</a></br>
+<a href="javalibrary.php" class="btn btn-default col-sm-12" role="button">Java Library</a></br>
+<a href="javainheritance.php" class="btn btn-default col-sm-12" role="button">Inheritance</a></br>
+<a href="javastaticandfinal.php" class="btn btn-default col-sm-12" role="button">Static and Final</a></br>
 <!--<a href="javaarray.php" class="btn btn-default col-sm-12" role="button">Arrays</a></br>
 <a href="javacollections.php" class="btn btn-default col-sm-12" role="button">Collections</a></br>
 <a href="javamulthreading.php" class="btn btn-default col-sm-12" role="button">Multithreading</a></br>

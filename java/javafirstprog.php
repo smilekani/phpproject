@@ -15,14 +15,13 @@
       <h3>First Java Program</h3>
       <p>Let start learning to write Java Program</br>
 	  This Simple Java Program just print "Hello, Welcome to Java Programming."</p></br>
-	  <p></br>public class FirstJavaProg {</p>
-		  <p>public static void main(String[] args) {</p>
-			  <p>System.out.println("Hello, Welcome to Java Programming.");</p>
-		<p>}</p>
-	  <p>}</p></br>
-	  </p>
+	  <pre>public class FirstJavaProg {
+	  public static void main(String[] args) {
+	  System.out.println("Hello, Welcome to Java Programming.");
+	}
+  }</pre>
 	  <h4>How to run a Java Program?</h4>
-	  <p>Just copy the above program and paste it in a file named as FirstJavaProg.java</p></br>
+	  <p>Just copy the above program and paste it in a file named as <b>FirstJavaProg.java</b></p></br>
 	  <p><b>Note:</b>The name of the source File is same as the class Name which has the main method</p>
 	  <p>Compile the class as javac FirstJavaProg.java</p><br>
 	  <p>After Compilation, run as java FirstJavaProg</p><br>
