@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Java program print prime numbers</h3>
-	<p>This java program prints prime numbers, number of prime numbers required is asked from the user. Remember that smallest prime number is 2.
+	<p class="normal">This java program prints prime numbers, number of prime numbers required is asked from the user. Remember that smallest prime number is 2.
 	</p>
 	<pre>import java.util.*;
  

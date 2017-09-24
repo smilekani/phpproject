@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>What is Parallel Computer?</h3>
-	<p>A computer with multiple processors that can all be run simultaneously on parts of the same problem to reduce the solution time. 
+	<p class="normal">A computer with multiple processors that can all be run simultaneously on parts of the same problem to reduce the solution time. 
 	The term is nowadays mostly reserved for those MASSIVELY PARALLEL computers with hundreds or thousands of processors that are used in science and engineering to tackle enormous computational problems.
 
 

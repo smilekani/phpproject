@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>What is Computer</h3>
-	<p>What is Computer : Computer is an electronic device that is designed to work with Information. 
+	<p class="normal">What is Computer : Computer is an electronic device that is designed to work with Information. 
 	The term computer is derived from the Latin term ‘computare’, this means to calculate or programmable machine.
 	Computer can not do anything without a Program. It represents the decimal numbers through a string of binary digits. 
 	The Word 'Computer' usually refers to the Center Processor Unit plus Internal memory.
@@ -22,7 +22,7 @@ Computer is an advanced electronic device that takes raw data as input from the 
  It can process both numerical and non-numerical (arithmetic and logical) calculations.
  </p>
  <img src="images/computerprocess.jpg" alt="computerprocess" style="width:50%">
- <p>
+ <p class="normal">
 
 Digital Computer Definition
 

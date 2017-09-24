@@ -13,7 +13,7 @@
     </div>
     <div class="col-sm-8">
       <h3>First Java Program</h3>
-      <p>Let start learning to write Java Program</br>
+      <p class="normal">Let start learning to write Java Program</br>
 	  This Simple Java Program just print "Hello, Welcome to Java Programming."</p></br>
 	  <pre>public class FirstJavaProg {
 	  public static void main(String[] args) {
@@ -21,11 +21,11 @@
 	}
   }</pre>
 	  <h4>How to run a Java Program?</h4>
-	  <p>Just copy the above program and paste it in a file named as <b>FirstJavaProg.java</b></p></br>
-	  <p><b>Note:</b>The name of the source File is same as the class Name which has the main method</p>
-	  <p>Compile the class as javac FirstJavaProg.java</p><br>
-	  <p>After Compilation, run as java FirstJavaProg</p><br>
-	  <p>Output is displayed as "Hello, Welcome to Java Programming."</p>
+	  <p class="normal">Just copy the above program and paste it in a file named as <b>FirstJavaProg.java</b></p></br>
+	  <p class="normal"><b>Note:</b>The name of the source File is same as the class Name which has the main method</p>
+	  <p class="normal">Compile the class as javac FirstJavaProg.java</p><br>
+	  <p class="normal">After Compilation, run as java FirstJavaProg</p><br>
+	  <p class="normal">Output is displayed as "Hello, Welcome to Java Programming."</p>
 	  
 	 <div class="row">
 	  <div class="col-sm-2">

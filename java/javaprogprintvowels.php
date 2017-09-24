@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Apache Axis</h3>
-	<p><b>Vowels in a String (Java)</b></p>
+	<p class="normal"><b>Vowels in a String (Java)</b></p>
 	
 	<pre>/This Java program accepts a String from
 //the user and  then prints out the vowels

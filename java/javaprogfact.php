@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3><b>Java program to find factorial</b></h3>
-	<p>This java program finds factorial of a number. Entered number is checked first if its negative then an error message is printed.
+	<p class="normal">This java program finds factorial of a number. Entered number is checked first if its negative then an error message is printed.
 	</p>
 	<pre>import java.util.Scanner;
  

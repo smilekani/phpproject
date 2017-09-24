@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>CPU Time</h3>
-	<p>The amount of time the CPU is actually executing instructions. During the execution of most programs, 
+	<p class="normal" class="normal">The amount of time the CPU is actually executing instructions. During the execution of most programs, 
 	the CPU sits idle much of the time while the computer fetches data from the keyboard or disk, or sends data to an output device. 
 	The CPU time of an executing program, therefore, is generally much less than the total execution time of the program. 
 	Multitasking operating systems take advantage of this by sharing the CPU among several programs.

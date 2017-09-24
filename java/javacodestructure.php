@@ -13,18 +13,18 @@
     </div>
     <div class="col-sm-8">
       <h3>Java Code Structure</h3>
-      <p>Put a Class in a Source File</p>
-	  <p>Put methods in a class</p>
-	  <p>Put Statements in a method</p>
+      <p class="normal">Put a Class in a Source File</p>
+	  <p class="normal">Put methods in a class</p>
+	  <p class="normal">Put Statements in a method</p>
 	  <h4>What goes in a Source File?</h4>
-	  <p>The Source Code file named with .java extension has the definition of the class.The class represents the piece of your program.
+	  <p class="normal">The Source Code file named with .java extension has the definition of the class.The class represents the piece of your program.
 	  All java applications has atleast one class.</p><br>
-	  <p>The class starts and ends with opening brace { and the ending brace }</p><br>
+	  <p class="normal">The class starts and ends with opening brace { and the ending brace }</p><br>
 	  <h4>What goes in a Class?</h4>
-	  <p>Inside class has lot of methods.A class has one or more methods.
+	  <p class="normal">Inside class has lot of methods.A class has one or more methods.
 	  The methods must be declared inside a class with coresponding open and close braces.</p><br>
 	  <h4>What goes in a Method?</h4>
-	  <p>The method has the list of statements.</p>
+	  <p class="normal">The method has the list of statements.</p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javafirstprog.php" method="post">

@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>dual-processor</h3>
-	<p>Dual-processor (DP) systems are those which contains two separate physical computer processors in the same chassis. 
+	<p class="normal">Dual-processor (DP) systems are those which contains two separate physical computer processors in the same chassis. 
 	In dual-processor systems the two processors can either be located on the same motherboard or on separate boards.
 	</p>
 	 <div class="row">

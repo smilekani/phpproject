@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>What is Computer</h3>
-	<p>The mouse and keyboard are your PC’s eyes and ears; without them you could not execute commands or input text. In this article we’ll highlight some of their important features.
+	<p class="normal">The mouse and keyboard are your PC’s eyes and ears; without them you could not execute commands or input text. In this article we’ll highlight some of their important features.
 
 
  
@@ -20,7 +20,7 @@ As input devices go, the mouse has changed very little since Microsoft used it t
 
 </p>
 <img src="images/firstmice.jpg" alt="computerprocess" style="width:50%">
-<p>
+<p class="normal">
 Tracking Technology
 
 The most basic mice for sale today let users manipulate the position of the pointer onscreen by mechanical means. A rubberized sphere inside the mouse body contacts a pair of rollers that drive gears, moving the mouse across a surface rotates the gears and the mouse’s driver translates the movement to appear onscreen. These mice are very inexpensive, but they tend to get clogged and require occasional cleaning. In 1999, Microsoft launched an optical mouse that used an LED and photodiodes to translate the mouse movements into the cursor position. Later optical mice used tiny low-resolution image sensors to track movement, enabling these modern optical mice to work on most surfaces. Laser mice use infrared laser diodes to provide very precise movement data, making it ideal for graphics professionals, engineers, and gamers.
@@ -30,7 +30,7 @@ Glass has been one of the few surfaces on which modern mice still have trouble t
 
    </p>
 <img src="images/miceandkeybd.jpg" alt="computerprocess" style="width:50%">
-<p>
+<p class="normal">
 All About Keyboards
 
 Computer keyboards can trace their heritage back to keypunch devices and typewriters from the late 1800s and early 1900s. In the context of computing, keyboards have changed very little, as well.

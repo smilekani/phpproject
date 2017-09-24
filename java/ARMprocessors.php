@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>ARM processors</h3>
-	<p>ARM processors are a family of 32-bit microprocessors developed by Advanced RISC Machines, Ltd. in the 1980s.
+	<p class="normal" class="normal">ARM processors are a family of 32-bit microprocessors developed by Advanced RISC Machines, Ltd. in the 1980s.
 	Today ARM processors power a wide variety of electronic devices, including mobile phones, tablets, multimedia players and more. 
 ARM processors are based on a reduced instruction set computer (RISC) architecture, and while they do share the low-end market with processors from 
 AMD and Intel, they aren't designed to compete with these companies' higher-end processors.

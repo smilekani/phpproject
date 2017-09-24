@@ -9,7 +9,7 @@
   <div class="col-sm-10">
       <h3>Simple Steps to Create a Hibernate Application</h3>
 	  <h2>The Way Java Works</h2>
-		<p>Create the Database Configuration and Mapping with Java Objects in a File named as <b>hibernate.cfg.xml</b></p>
+		<p class="normal">Create the Database Configuration and Mapping with Java Objects in a File named as <b>hibernate.cfg.xml</b></p>
 		<pre> &lt;?xml version='1.0' encoding='UTF-8'?>  
 &lt;!DOCTYPE hibernate-configuration PUBLIC  
           "-//Hibernate/Hibernate Configuration DTD 3.0//EN"  
@@ -27,7 +27,7 @@
 &lt;/hibernate-configuration>  
 </pre>
 
-<p>Create a Object as Person.java</p>
+<p class="normal">Create a Object as Person.java</p>
 <pre>package com.kani.hibernate;
 import java.io.Serializable;
 
@@ -78,7 +78,7 @@ public class Person implements Serializable
 }
 </pre>
 
-<p>Create a Mapping file the Object Person.java as follows</p>
+<p class="normal">Create a Mapping file the Object Person.java as follows</p>
 <pre>&lt;?xml version='1.0' encoding='UTF-8'?>  
 	&lt;!DOCTYPE hibernate-mapping PUBLIC  
  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
@@ -93,7 +93,7 @@ public class Person implements Serializable
   &lt;/class>           
  &lt;/hibernate-mapping></pre>
  
- <p>Run the Demo Class and see the Result</p>
+ <p class="normal">Run the Demo Class and see the Result</p>
  <pre>package com.kani.hibernate;
 
 import org.hibernate.Session;  

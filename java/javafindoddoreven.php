@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Java program to find odd or even</h3>
-	<p>This java program finds if a number is odd or even. If the number is divisible by 2 then it will be even, otherwise it is odd. We use modulus operator to find remainder in our program.</p>
+	<p class="normal">This java program finds if a number is odd or even. If the number is divisible by 2 then it will be even, otherwise it is odd. We use modulus operator to find remainder in our program.</p>
 	 <pre>import java.util.Scanner;
  
 class OddOrEven

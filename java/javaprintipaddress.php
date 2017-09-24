@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Java program to get ip address</h3>
-	<p>This program prints IP or internet protocol address of your computer system. InetAddress class of java.net package is used, getLocalHost method returns InetAddress object which represents local host.</p>
+	<p class="normal">This program prints IP or internet protocol address of your computer system. InetAddress class of java.net package is used, getLocalHost method returns InetAddress object which represents local host.</p>
 	<pre>import java.net.InetAddress;
  
 class IPAddress

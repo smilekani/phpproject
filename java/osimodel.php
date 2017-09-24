@@ -9,7 +9,7 @@
   <div class="col-sm-10">
       <h3>Open Systems Interconnection Model (OSI Model)</h3>
 	  <h4><b>Definition - What does Open Systems Interconnection Model (OSI Model) mean?</b></h4>
-	<p>The Open Systems Interconnection (OSI) Model is a conceptual and logical layout that defines network communication 
+	<p class="normal">The Open Systems Interconnection (OSI) Model is a conceptual and logical layout that defines network communication 
 	used by systems open to interconnection and communication with other systems.
 	The model is broken into seven subcomponents, or layers, each of which represents a conceptual collection of services provided to the layers above and 
 	below it. The OSI Model also defines a logical network and effectively describes computer packet transfer by using different layer protocols.
@@ -24,7 +24,7 @@
 		and transferring completed tasks to the next layer for further processing. Today, many protocols are developed based on 
 		the OSI Model working mechanism.
 	</p></br>
-	<p>The Open System Interconnection (OSI) model defines a networking framework to implement protocols in seven layers. There is really nothing to the OSI model. In fact, it's not even tangible. The OSI model doesn't perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening.
+	<p class="normal">The Open System Interconnection (OSI) model defines a networking framework to implement protocols in seven layers. There is really nothing to the OSI model. In fact, it's not even tangible. The OSI model doesn't perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening.
 Who Developed the OSI?
 The International Standards Organization (ISO) developed the Open Systems Interconnection (OSI) model. It divides network communication into seven layers. Layers 1-4 are considered the lower layers, and mostly concern themselves with moving data around. Layers 5-7, the upper layers, contain application-level data. Networks operate on one basic principle: "pass it on." Each layer takes care of a very specific job, and then passes the data onto the next layer.
 The 7 Layers of the OSI

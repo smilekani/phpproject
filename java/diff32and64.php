@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>What’s the difference between 32-bit and 64-bit?</h3>
-	<p>The term “bit” is short for “binary digit,” which can be a 1 or 0. In this context, the number of bits refers to how many 1’s and 0’s 
+	<p class="normal">The term “bit” is short for “binary digit,” which can be a 1 or 0. In this context, the number of bits refers to how many 1’s and 0’s 
 	the computer’s processor can use to communicate instructions and assign memory addresses. When dealing with instructions, 
 	64-bit software offers increased performance over 32-bit programs, because the processor will be able to deliver more information each time 
 	it issues a command. When dealing with memory address, a 32-bit string is limited to a little over 4 million bytes of memory, or 4GB.

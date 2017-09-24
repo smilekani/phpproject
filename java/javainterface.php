@@ -13,9 +13,9 @@
     </div>
     <div class="col-sm-8">
       <h3>Java Interface</h3>
-      <p><b>What is a interface?</b></p><p>Interface is a 100% abstract class.</p></br>
-	  <p><b>What is abstract class?</b></p>
-	  <p>Abstract class is the class that cannot be instantiated</p>
+      <p class="normal"><b>What is a interface?</b></p><p>Interface is a 100% abstract class.</p></br>
+	  <p class="normal"><b>What is abstract class?</b></p>
+	  <p class="normal">Abstract class is the class that cannot be instantiated</p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javaobject.php" method="post">

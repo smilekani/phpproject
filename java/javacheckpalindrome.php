@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Ethernet</h3>
-	<p>Java palindrome program: Java program to check if a string is a palindrome or not. 
+	<p class="normal">Java palindrome program: Java program to check if a string is a palindrome or not. 
 	Remember a string is a palindrome if it remains unchanged when reversed, 
 	for example "dad" is a palindrome as reverse of "dad" is "dad" whereas "program" is not a palindrome. 
 	Some other palindrome strings are "mom", "madam", "abcba".	</p>

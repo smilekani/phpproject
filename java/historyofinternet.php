@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>History of the Internet</h3>
-	<p>The Internet is ubiquitous in every sense of the word. We use it to guide us through unfamiliar cities, send photos to far-off friends,
+	<p class="normal">The Internet is ubiquitous in every sense of the word. We use it to guide us through unfamiliar cities, send photos to far-off friends,
 
 	learn new tasks, for entertainment and to answer a multitude of other needs that come up every day. 
 	

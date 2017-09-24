@@ -13,7 +13,7 @@
     </div>
     <div class="col-sm-8">
       <h3>Java Class</h3>
-      <p>A class is a blueprint from which individual objects are created.</p>
+      <p class="normal">A class is a blueprint from which individual objects are created.</p>
  	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasics.php" method="post">

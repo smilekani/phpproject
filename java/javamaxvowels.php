@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Program on displaying the word with maximum vowels in a sentence</h3>
-	<p>In this program user will entyer any sentence and the program will display the word with maximum number of vowels. For example, if the entered sentence is : This year 2014 was so so, the output will be year.
+	<p class="normal">In this program user will entyer any sentence and the program will display the word with maximum number of vowels. For example, if the entered sentence is : This year 2014 was so so, the output will be year.
 
 In this program we have to break the entered sentence in words and ISC students can use 
 StringTokenizer class to break the sentence into tokens where as ICSE students can do the 
@@ -66,7 +66,7 @@ class St
             }
         }
        </pre><br><h4>Sample Output</h4>
-       <p> Enter the sentence:This is an average year
+       <p class="normal"> Enter the sentence:This is an average year
 
         Word with maximum number of vowels:average</p>
         <h3>This program is using String class functions - substring () and indexOf() </h3>
@@ -125,8 +125,8 @@ class Str
              ob.show();
             }
         }</pre>
-        <p><b>Sample Input Output:</b></p><br>
-        <p>Enter the sentence:year 2015 may be a productive year for India
+        <p class="normal"><b>Sample Input Output:</b></p><br>
+        <p class="normal">Enter the sentence:year 2015 may be a productive year for India
 
        Word with maximum number of vowels:productive</p>
 	 <div class="row">

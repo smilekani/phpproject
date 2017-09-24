@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>local area network (LAN)</h3>
-	<p>A local area network (LAN) is a group of computers and associated devices that share a common communications line or wireless link to a server.
+	<p class="normal">A local area network (LAN) is a group of computers and associated devices that share a common communications line or wireless link to a server.
 	Typically, a LAN encompasses computers and peripherals connected to a server within a distinct geographic area such as an office or 
 	a commercial establishment. Computers and other mobile devices use a LAN connection to share resources such as a printer or network storage.
 	</p>

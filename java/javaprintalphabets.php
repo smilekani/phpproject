@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Java program to print alphabets</h3>
-	<p>This program print alphabets on screen i.e a, b, c, ..., z. Here we print alphabets in lower case.</p>
+	<p class="normal">This program print alphabets on screen i.e a, b, c, ..., z. Here we print alphabets in lower case.</p>
 	<pre>class Alphabets
 {
    public static void main(String args[])

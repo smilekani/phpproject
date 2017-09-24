@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Apache Axis</h3>
-	<p>Apache Axis™ is a second generation SOAP engine, the successor to the Apache SOAP project, itself based on the original SOAP4J code that IBM contributed to Apache in April 2000. In contrast to its predecessor, Axis is fully WSDL aware. It also supports the JAX-RPC API.
+	<p class="normal" class="normal">Apache Axis™ is a second generation SOAP engine, the successor to the Apache SOAP project, itself based on the original SOAP4J code that IBM contributed to Apache in April 2000. In contrast to its predecessor, Axis is fully WSDL aware. It also supports the JAX-RPC API.
 
 Today, Apache Axis is to a large extend superseded by a new generation of SOAP stacks such as Apache Axis2, Apache CXF and Metro. However, Axis is still relevant for the following type of projects:
 
@@ -21,7 +21,7 @@ The well known Apache Axis, and the the second generation of it, the Apache Axis
 Axis2 is avaialble in both Java as well as C, languages and details about each version can be found below.
 	</p>
 	
-	<p><a href="http://axis.apache.org/axis/java/">Click here for more details of apache axis</a></p>
+	<p class="normal" class="normal"><a href="http://axis.apache.org/axis/java/">Click here for more details of apache axis</a></p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

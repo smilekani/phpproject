@@ -8,12 +8,12 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>What is Parallel Computer?</h3>
-	<p>CPU (pronounced as separate letters) is the abbreviation for central processing unit. Sometimes referred to simply as the central processor,
+	<p class="normal" class="normal">CPU (pronounced as separate letters) is the abbreviation for central processing unit. Sometimes referred to simply as the central processor,
 	but more commonly called processor, the CPU is the brains of the computer where most calculations take place. 
 	In terms of computing power, the CPU is the most important element of a computer system.
 	   </p>
 <img src="images/cpu-diagram.gif" alt="cpu-diagram" style="width:50%">
-<p>
+<p class="normal" class="normal">
 Components of a CPU
 The two typical components of a CPU include the following:
 The arithmetic logic unit (ALU), which performs arithmetic and logical operations.

@@ -8,12 +8,12 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Alpha Processor</h3>
-	<p>A powerful RISC processor developed by Digital Equipment Corporation and used in their line of workstations and servers.
+	<p class="normal" class="normal">A powerful RISC processor developed by Digital Equipment Corporation and used in their line of workstations and servers.
 	</p>
 	<h3>word processor</h3>
-	<p>A program or computer that enables you to perform word processing functions.</p>
+	<p class="normal" class="normal">A program or computer that enables you to perform word processing functions.</p>
 	<h3>Stop Words</h3>
-	<p>Words that are filtered out by Web search engines and other enterprise searching and indexing platforms.
+	<p class="normal" class="normal">Words that are filtered out by Web search engines and other enterprise searching and indexing platforms.
 	Stop words are natural language words which have very little meaning,
 	such as "and", "the", "a", "an", and similar words.</p>
 	 <div class="row">

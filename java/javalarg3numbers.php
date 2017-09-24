@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Java program to find largest of three numbers</h3>
-	<p>This java program finds largest of three numbers and then prints it. If the entered numbers are unequal then "numbers are not distinct" is printed.</p>
+	<p class="normal">This java program finds largest of three numbers and then prints it. If the entered numbers are unequal then "numbers are not distinct" is printed.</p>
 	<pre>import java.util.Scanner;
  
 class LargestOfThreeNumbers

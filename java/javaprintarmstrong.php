@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>Ethernet</h3>
-	<p>This java program checks if a number is Armstrong or not. 
+	<p class="normal">This java program checks if a number is Armstrong or not. 
 	Armstrong number is a number which is equal to sum of digits raise to the power total number of digits 
 	in the number. Some Armstrong numbers are: 0, 1, 4, 5, 9, 153, 371, 407, 8208 etc.
 	</p>

@@ -13,11 +13,11 @@
     </div>
     <div class="col-sm-8">
       <h3><b>Static Variables</b></h3>
-	  <p>All static variables in a class are Initialized before any object of that class can be created.</p><br>
+	  <p class="normal">All static variables in a class are Initialized before any object of that class can be created.</p><br>
 	  <h3><b>Final Variables</b></h3>
-	  <p>A variable marked final means that once initialized it can never change.</p></br>
+	  <p class="normal">A variable marked final means that once initialized it can never change.</p></br>
 	  <h3>Static Final Variables</h3>
-	  <p>The value of the static final variable will stay the same as long as the class is loaded:
+	  <p class="normal">The value of the static final variable will stay the same as long as the class is loaded:
 	  Look up Math.PI in the API, and you'll find:
 		public static final double PI = 3.141592653589793;</p>
 	 <div class="row">

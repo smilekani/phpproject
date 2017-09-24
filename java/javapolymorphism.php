@@ -13,7 +13,7 @@
     </div>
     <div class="col-sm-8">
       <h3><b>Polymorphism</b></h3>
-	  <p>Polymorphism means existing in more than one forms.</p>
+	  <p class="normal">Polymorphism means existing in more than one forms.</p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javainterface.php" method="post">

@@ -13,18 +13,18 @@
     </div>
     <div class="col-sm-8">
       <h3>Java Variables and Methods</h3>
-      <p>Here, we are going to see about Java Variables and Methods.</p>
-	  <p><b>What is Variable and what use of variables?</b></p>
-	  <p>Variable is a piece of memory that contains the value of the data.</p><br>
-	  <p><b>Variable Declaration</b></p>
-	  <p>The variable can be declared as the dataType followed by space and the varible name as the identifier.</p>
-	  <p>For eg: int numValue; Here int is the datatype and the numValue is the identifier as the variable name.</p>
-	  <p><b>Variable Definition</b></p>
+      <p class="normal">Here, we are going to see about Java Variables and Methods.</p>
+	  <p class="normal"><b>What is Variable and what use of variables?</b></p>
+	  <p class="normal">Variable is a piece of memory that contains the value of the data.</p><br>
+	  <p class="normal"><b>Variable Declaration</b></p>
+	  <p class="normal">The variable can be declared as the dataType followed by space and the varible name as the identifier.</p>
+	  <p class="normal">For eg: int numValue; Here int is the datatype and the numValue is the identifier as the variable name.</p>
+	  <p class="normal"><b>Variable Definition</b></p>
 	  Defin
-	  <p>In Java, there are different types of variables such as Local variables, instance variable and Class Variable.</p></br>
-	  <p><b>Local Variable</b></p>
-	  <p>The variable which are defined inside a method is called Local Variable</p>
-	  <p><b>Instance Variable are the variables which are inside class, but declared outside the method.</b></p>
+	  <p class="normal">In Java, there are different types of variables such as Local variables, instance variable and Class Variable.</p></br>
+	  <p class="normal"><b>Local Variable</b></p>
+	  <p class="normal">The variable which are defined inside a method is called Local Variable</p>
+	  <p class="normal"><b>Instance Variable are the variables which are inside class, but declared outside the method.</b></p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javacodestructure.php" method="post">

@@ -8,7 +8,7 @@
   <div class="row">
   <div class="col-sm-10">
       <h3>What is Internet</h3>
-	<p>To tell the history of the Internet, you have to commit to a definition. The one that springs to mind most easily is a network for sharing information, but this definition is far too broad. Under this definition, a history of the Internet would start with the evolution of language, jump between continents to tell the story of tribal drumming, smoke signals, carrier pigeons, messengers, telegraphs, the transatlantic connection, phone lines and so on. (For background reading, check out What is the difference between the Internet and the World Wide Web?)
+	<p class="normal">To tell the history of the Internet, you have to commit to a definition. The one that springs to mind most easily is a network for sharing information, but this definition is far too broad. Under this definition, a history of the Internet would start with the evolution of language, jump between continents to tell the story of tribal drumming, smoke signals, carrier pigeons, messengers, telegraphs, the transatlantic connection, phone lines and so on. (For background reading, check out What is the difference between the Internet and the World Wide Web?)
 
 Similarly, adding the word “computer” to the definition helps eliminate a brief history of selective pigeon breeding, but it also limits the story a little too much. Computers are still a common interface that people use to connect to the Internet, but smartphones, tablets and future devices make for a laundry list definition where the Internet is a network for sharing information using personal computers, smartphones, e-readers and so on.
 
