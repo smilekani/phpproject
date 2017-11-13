@@ -7,9 +7,9 @@
     <ul class="nav navbar-nav">
       <!--<li class="active"><a href="#">Home</a></li>
       <li><a href="c.php">C</a></li> -->
-      <li><a href="javabasics.php">Java</a></li>
-	  <li><a href="grewords/lettera.php">GRE</li>
-	  <li><a href="english/englishgrammerbasics.php">English</li>
+      <li><a href="../java/javabasics.php">Java</a></li>
+	  <li><a href="../grewords/lettera.php">GRE</a></li>
+	  <li><a href="englishgrammerbasics.php">English</a></li>
     </ul>
   </div>
 </nav>
