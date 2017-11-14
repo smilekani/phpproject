@@ -26,6 +26,7 @@
 	  <p class="normal"><a href="javaprintprime.php">Java program print prime numbers</a></p>
   	  <p class="normal"><a href="javalarg3numbers.php">Java program to find largest of three numbers</a></p>
 	  <p class="normal"><a href="javafindoddoreven.php">Java program to find odd or even</a></p>
+	  <p class="normal"><a href="moredetails.php">Java program to find odd or even</a></p>
     </div>
   </div>
 </div>

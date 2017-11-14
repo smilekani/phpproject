@@ -49,6 +49,7 @@ function search() {
 		  <a href="java/javabasics.php"><img class="img-responsive" src="images/Java.png" alt="Java Tutorial"></a>
 		  <a href="grewords/lettera.php"><img class="img-responsive" src="images/Java.png" alt="GRE Words"></a>
 		  <a href="english/englishgrammerbasics.php"><img class="img-responsive" src="images/Java.png" alt="English"></a>
+		  <a href="html/htmlintro.php"><img class="img-responsive" src="images/Java.png" alt="HTML"></a>
         </div>
       </div>
 	  </form>
