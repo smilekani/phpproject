@@ -9,7 +9,11 @@
       <li><a href="c.php">C</a></li> -->
       <li><a href="../java/javabasics.php">Java</a></li>
 	  <li><a href="../grewords/lettera.php">GRE</a></li>
-	  <li><a href="englishgrammerbasics.php">English</a></li>
+	  <li><a href="../english/englishgrammerbasics.php">English</a></li>
+	  <li><a href="../html/htmlintro.php">HTML</a></li>
+	  <li><a href="../karaf/karafintro.php">karaf</a></li>
+	  <li><a href="../mapr/maprintro.php">MAPR</a></li>
+	  <li><a href="mathsintro.php">Maths</a></li>
     </ul>
   </div>
 </nav>

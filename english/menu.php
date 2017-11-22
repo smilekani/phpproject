@@ -10,6 +10,7 @@
       <li><a href="../java/javabasics.php">Java</a></li>
 	  <li><a href="../grewords/lettera.php">GRE</a></li>
 	  <li><a href="englishgrammerbasics.php">English</a></li>
+	  <li><a href="../html/htmlintro.php">HTML</a></li>
     </ul>
   </div>
 </nav>
