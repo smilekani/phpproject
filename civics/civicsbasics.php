@@ -8,7 +8,7 @@
   <div class="row">
     <div class="col-sm-2">
 		<div>
-		<?php include 'englishmenu.php';?>
+		<?php include 'civismenu.php';?>
 		</div>
     </div>
     <div class="col-sm-8">

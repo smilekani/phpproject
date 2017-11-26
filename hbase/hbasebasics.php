@@ -8,7 +8,7 @@
   <div class="row">
     <div class="col-sm-2">
 		<div>
-		<?php include 'englishmenu.php';?>
+		<?php include 'hbasemenu.php';?>
 		</div>
     </div>
     <div class="col-sm-8">
@@ -72,5 +72,5 @@ a government of, by, and for the people</p>
     </div>
 	</div>
 <div>
-<?php include 'englishfooter.php';?>
+<?php include 'hbasefooter.php';?>
 </div>

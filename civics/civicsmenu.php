@@ -1,2 +1,2 @@
-<a href="englishgrammerbasics.php" class="btn btn-default col-sm-12">English Grammer</a>
-<a href="colon.php" class="btn btn-default col-sm-12">Colon</a>
+<a href="civicsbasics.php" class="btn btn-default col-sm-12">Civics Basics</a>
+<a href="civics1.php" class="btn btn-default col-sm-12">Civics</a>
