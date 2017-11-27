@@ -12,19 +12,11 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>English Usage</h3>
-	  <h2>Colon</h2>
-      <p class="normal" class="normal">Colon (:)</p>
-	  </br><p class="normal">There are three main uses of the colon:</p>
-	  <br><p class="normal">between two main clauses in cases where the second clause explains or follows from the first:</p>
-	  <br><p class="normal">That is the secret of my extraordinary life: always do the unexpected.</p>
-	  <br><p class="normal">It wasn’t easy: to begin with, I had to find the right house.</p>
-	  <br><p class="normal">to introduce a list:</p>
-	   <br><p class="normal">The price includes the following: travel to London, flight to Venice, hotel accommodation, and excursions.</p>
-	   <br><p class="normal">The job calls for skills in the following areas: proofing, editing, and database administration.</p>
-	   <br><p class="normal">before a quotation, and sometimes before direct speech:</p>
-	   <br><p class="normal">The headline read: ‘Taxi Driver Battles Gangsters’.</p>
-	   <br><p class="normal">They shouted: ‘Our families are starving! We need land!’</p>
+      <h3>Botany</h3>
+	  <h2>Botany Basics</h2>
+      <p class="normal" class="normal">Botany Definition</p>
+	  </br><p class="normal">the scientific study of the physiology, structure, genetics, ecology, distribution, classification, and economic importance of plants.</p>
+	  <br><p class="normal">the plant life of a particular region, habitat, or geological period.</p>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
