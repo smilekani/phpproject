@@ -43,7 +43,7 @@ a government of, by, and for the people</p>
 	   <br><p class="normal">only the first two elements fit syntactically with the text should be; the sentence should rather be written:</p>
 	   <br><p class="normal">the text should be lively and readable, and have touches of humour</p>
 	   <br><p class="normal">For More Info Punctuation Please follow this link:</p>
-	   <a href="https://en.oxforddictionaries.com/grammar/punctuation">English Grammer Punctuations</a>
+	   <a href="http://aries.apache.org/documentation/tutorials/blueprinthelloworldtutorial.html">Blue Print</a>
 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
