@@ -13,6 +13,7 @@
 <a href="javastaticandfinal.php" class="btn btn-default col-sm-12" role="button">Static and Final</a></br>
 <a href="javaAnagram.php" class="btn btn-default col-sm-12" role="button">Java Anagram</a></br>
 <a href="javaCheckAnagram.php" class="btn btn-default col-sm-12" role="button">Java Anagram Check</a></br>
+<a href="petsalonproject.php" class="btn btn-default col-sm-12" role="button">Pet Salon Project</a></br>
 <!--<a href="javaarray.php" class="btn btn-default col-sm-12" role="button">Arrays</a></br>
 <a href="javacollections.php" class="btn btn-default col-sm-12" role="button">Collections</a></br>
 <a href="javamulthreading.php" class="btn btn-default col-sm-12" role="button">Multithreading</a></br>
